@@ -1,0 +1,31 @@
+Test cases covered:
+
+#TS01
+StartUp operations: 
+Input: Entered choice: 4
+Output: Message displayed: Please enter correct choice
+
+#TS02
+Sign Up Operations:
+Input: Entered same username
+Output: Message displayed: Username already exists
+
+#TS03
+Login Operations:
+Input: Entered wrong/unknown username
+Output: Message displayed: Username does not exists
+
+#TS04
+Login Operations:
+Input: Entered wrong password
+Output: Message displayed: Invalid Password
+
+#TS05
+Journal Management
+Input: Entered choice: 4
+Output: Message displayed: Please enter correct choice
+
+#TS06
+Opening Journal
+Input: Entered wrong/unknown journal name
+Output: Message displayed: Journal Not found
